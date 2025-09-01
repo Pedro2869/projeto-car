@@ -1,4 +1,4 @@
-let prevButton = document.getElementById("prev");
+let prevButton = document.getElementById("prev"); // NESSA SEÇÃO ESTAMOS APENAS DECLARANDO AS NOSSAS VARIÁVEIS
 let nextButton = document.getElementById("next");
 let container = document.querySelector(".container");
 let items = container.querySelectorAll(".list .item");
